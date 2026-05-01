@@ -1,6 +1,6 @@
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 run-name: Jekyllization after ${{ github.sha }}
-on: [push]
+on: push
   push: # Runs on pushes targeting the default branch
     branches: ["main","mtkft-attempt-jekylldeployer"]
 
