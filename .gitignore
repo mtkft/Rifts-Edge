@@ -3,6 +3,6 @@ _site
 .jekyll-cache
 .jekyll-metadata
 Gemfile.lock
-src/.obsidian/*
+.obsidian/*
 vendor
 _*md
