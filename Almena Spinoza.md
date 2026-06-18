@@ -7,7 +7,7 @@ Pronouns: They/She
 
 Class: 
 
-Race: Human(?)
+Race: Half-Halfling
 
 Alignment: 
 
@@ -26,7 +26,7 @@ Eye Color:
 
 Hair Color: 
 
-Height: 
+Height: short
 
 # Social
 Birthplace: Spinoza Estate
@@ -35,7 +35,7 @@ Current Residence: Marcamin, Spinoza
 
 Employment: Head of Estate
 
-Titles: 
+Titles: Magister
 
 Notable Achievements:
 
@@ -43,7 +43,7 @@ Notable Achievements:
 Friends: 
 
 Companions: 
- - Hilliard
+ - Hilliard (Lancehound Devotee)
 
 Family:
  - Jye Spinoza (Half-Sibling)
@@ -55,10 +55,12 @@ Family:
 Rivals: 
 
 Enemies: 
+- Independent Mariners Union
 
 Significant Other/Partner:
 
 Other: 
+- Kyra (acquaintance)
 
 # About
   Lorem ipsum
