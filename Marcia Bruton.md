@@ -1,19 +1,21 @@
 # Basic Info
 Character Name: Marcia Bruton
 
-Alias: Miss Ciciley
+Alias:
+- Miss Ciciley (readers)
+- Marsh (close friends/family)
 
 Character Pronouns: She/her
 
-Class: Bard
+Class: college of lore Bard/humblewood community domain cleric (chef feat?)
 
-Race: Human (Mostly?)
+Race: fae
 
-Alignment: 
+Alignment: lawful neutral 
 
 Affiliations: The Omeun Oracle
 
-Age: 30 (?)
+Age: appears 30. actually closer to 900
 
 Status: Alive 
 
@@ -42,6 +44,7 @@ Other:
 # Items
 ## Backstory important
 - Adventurer's Compass
+- Tailor's Glove (once per day, allows her to open any door, regardless of whether the door is locked. That door will serve as a portal to the back room of her uncle's tailor shop. [TO BE CONTINUED]
 
 ## Armament
 ### Prim
